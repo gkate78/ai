@@ -37,13 +37,13 @@ source .venv/bin/activate # activate the virtual environment and start using the
 ```
 
 ## Assignment
-done - Install **Visual Studio Code** with the extensions listed above
-done - Install **Pyenv**, **create and activate a virtual environment** for Python 3.12
-done - **Fork** this course in your personal Github 
-done - **Star** this course in Github
-ok - Join the **[Discord channel](https://discord.com/channels/1041795715757789204/1094455854897573908)** and introduce yourself
+- done - Install **Visual Studio Code** with the extensions listed above
+- done - Install **Pyenv**, **create and activate a virtual environment** for Python 3.12
+- done - **Fork** this course in your personal Github 
+- done - **Star** this course in Github
+- ok - Join the **[Discord channel](https://discord.com/channels/1041795715757789204/1094455854897573908)** and introduce yourself
 - Let others know what you are learning now and **LinkedIn** is great for this
-done - Connect with your study group members on **LinkedIn**, and [with me too](https://linkedin.com/in/joreyes)!
+- done - Connect with your study group members on **LinkedIn**, and [with me too](https://linkedin.com/in/joreyes)!
 
 ## FAQ
 ### **Q:** Is it okay if i don't use **pyenv**?
